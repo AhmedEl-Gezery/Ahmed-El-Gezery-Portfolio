@@ -3,17 +3,8 @@
 Hi, I'm Ahmed Gamal a Data Analyst with 2 years of experience, passionate about turning raw data into actionable insights. Constantly learning and exploring new techniques to enhance analysis and visualization skills.
 ## Portfolio
 ### Sales Dashboard (Jun-23)
-> Description: This project aims to provide comprehensive insights into the company's activities, allowing stakeholders to explore various aspects of its operations. On the first page (Overall), you'll find:
+> Description: This project aims to provide comprehensive insights into the company's activities, allowing stakeholders to explore various aspects of its operations. 
 
-1. Sales Trend
-2. Year-over-Year (YOY) Changes
-3. Profit per Category
-4. Sales Per Region
-5. Sales per Segment
-6. Sales Per Category
-7. Average Shipping Time
-8. Top Sales (City - State)
-9. Customer Type
 ![Project 1](Sales Dashboard (Overall).png)
 
 Second Page: Current Year Insights
